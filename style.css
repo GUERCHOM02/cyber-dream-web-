@@ -1,0 +1,37 @@
+#testimonials {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+#testimonials blockquote {
+    font-size: 18px;
+    font-style: italic;
+}
+
+#contact {
+    margin: 20px;
+}
+
+#contact form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact label {
+    margin-bottom: 5px;
+}
+
+#contact input, #contact textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+#contact input[type="submit"] {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Réparation d'Appareils Électroniques</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Réparation d'Appareils Électroniques</h1>
+    </header>
+    <section id="services">
+        <h2>Nos Services</h2>
+        <ul>
+            <li>Réparation de smartphones</li>
+            <li>Réparation d'ordinateurs portables</li>
+            <li>Réparation de consoles de jeux</li>
+            <li>Reparation de television moderne</li>
+            <li>Reparation des autres Appareils</li>
+        </ul>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
